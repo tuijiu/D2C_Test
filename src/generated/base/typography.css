@@ -1,0 +1,23 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  /* CSS: var(--font-display-app) */
+  --typography-display-app: 600 28px/36px "Inter";
+  /* CSS: var(--font-title-page) */
+  --typography-title-page: 600 22px/28px "Inter";
+  /* CSS: var(--font-heading-section) */
+  --typography-heading-section: 600 18px/24px "Inter";
+  /* CSS: var(--font-body-default) */
+  --typography-body-default: 400 16px/24px "Inter";
+  /* CSS: var(--font-body-strong) */
+  --typography-body-strong: 500 16px/24px "Inter";
+  /* CSS: var(--font-body-small) */
+  --typography-body-small: 400 14px/20px "Inter";
+  /* CSS: var(--font-label-default) */
+  --typography-label-default: 500 13px/18px "Inter";
+  /* CSS: var(--font-caption-default) */
+  --typography-caption-default: 400 12px/16px "Inter";
+}

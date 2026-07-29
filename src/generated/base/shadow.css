@@ -1,0 +1,9 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --shadow-elevation-subtle: 0px 1px 3px 0px #0000000f;
+  --shadow-elevation-overlay: 0px 8px 24px -4px #0000001a, 0px 2px 8px -2px #0000000d;
+}
