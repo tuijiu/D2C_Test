@@ -1,0 +1,68 @@
+{
+  "users": [
+    { "id": "lina", "name": "Lina Yang", "initials": "LY", "status": "Online" },
+    { "id": "noah", "name": "Noah Chen", "initials": "NC", "status": "Online" },
+    { "id": "maya", "name": "Maya Patel", "initials": "MP", "status": "Away" },
+    { "id": "eli", "name": "Eli Wong", "initials": "EW", "status": "Online" },
+    { "id": "ava", "name": "Ava Li", "initials": "AL", "status": "Offline" },
+    { "id": "jon", "name": "Jon Bell", "initials": "JB", "status": "Away" }
+  ],
+  "contacts": {
+    "lina": ["noah", "maya", "eli"],
+    "noah": ["lina", "maya"],
+    "maya": ["lina", "noah"],
+    "eli": ["lina"],
+    "ava": [],
+    "jon": []
+  },
+  "messages": [
+    {
+      "id": "seed-1",
+      "senderId": "noah",
+      "recipientId": "lina",
+      "text": "Are we still meeting at six?",
+      "createdAt": "2026-07-28T01:40:00.000Z",
+      "readBy": ["noah", "lina"]
+    },
+    {
+      "id": "seed-2",
+      "senderId": "lina",
+      "recipientId": "noah",
+      "text": "Yes. Same place as last time.",
+      "createdAt": "2026-07-28T01:41:00.000Z",
+      "readBy": ["lina", "noah"]
+    },
+    {
+      "id": "seed-3",
+      "senderId": "noah",
+      "recipientId": "lina",
+      "text": "Perfect. I will bring the notes.",
+      "createdAt": "2026-07-28T01:41:30.000Z",
+      "readBy": ["noah", "lina"]
+    },
+    {
+      "id": "seed-4",
+      "senderId": "lina",
+      "recipientId": "noah",
+      "text": "Sounds good. See you there!",
+      "createdAt": "2026-07-28T01:42:00.000Z",
+      "readBy": ["lina", "noah"]
+    },
+    {
+      "id": "seed-5",
+      "senderId": "maya",
+      "recipientId": "lina",
+      "text": "Can you send the link?",
+      "createdAt": "2026-07-27T09:15:00.000Z",
+      "readBy": ["maya"]
+    },
+    {
+      "id": "seed-6",
+      "senderId": "eli",
+      "recipientId": "lina",
+      "text": "Thank you!",
+      "createdAt": "2026-07-26T02:20:00.000Z",
+      "readBy": ["eli", "lina"]
+    }
+  ]
+}
