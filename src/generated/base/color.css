@@ -1,0 +1,45 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-neutral-50: #f7f8f6;
+  --color-neutral-100: #eff1ed;
+  --color-neutral-200: #dde1db;
+  --color-neutral-300: #c7cdc4;
+  --color-neutral-500: #6c746a;
+  --color-neutral-700: #3c443a;
+  --color-neutral-800: #252b24;
+  --color-neutral-900: #171c16;
+  --color-teal-50: #eaf8f4;
+  --color-teal-100: #d0f0e7;
+  --color-teal-300: #69c8ad;
+  --color-teal-500: #0f8f72;
+  --color-teal-600: #0b755e;
+  --color-teal-700: #085e4d;
+  --color-coral-50: #fff2ee;
+  --color-coral-400: #f07b62;
+  --color-coral-500: #da5f48;
+  --color-red-500: #c83e4d;
+  --color-bg-canvas: var(--color-neutral-50);
+  --color-bg-surface: var(--color-white);
+  --color-bg-subtle: var(--color-neutral-100);
+  --color-bg-accent: var(--color-teal-500);
+  --color-bg-accent-subtle: var(--color-teal-50);
+  --color-bg-danger-subtle: var(--color-coral-50);
+  --color-text-primary: var(--color-neutral-900);
+  --color-text-secondary: var(--color-neutral-500);
+  --color-text-on-accent: var(--color-white);
+  --color-text-accent: var(--color-teal-700);
+  --color-text-danger: var(--color-red-500);
+  --color-border-default: var(--color-neutral-200);
+  --color-border-strong: var(--color-neutral-300);
+  --color-border-accent: var(--color-teal-500);
+  --color-icon-default: var(--color-neutral-700);
+  --color-icon-accent: var(--color-teal-600);
+  --color-status-online: var(--color-teal-500);
+  --color-status-unread: var(--color-coral-500);
+}
