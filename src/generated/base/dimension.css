@@ -1,0 +1,32 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --dimension-spacing-sys: 12px;
+  --dimension-spacing-sab: 34px;
+  --dimension-spacing-sat: 59px;
+  --dimension-spacing-xs: 4px;
+  --dimension-spacing-sm: 8px;
+  --dimension-spacing-md: 12px;
+  --dimension-spacing-lg: 16px;
+  --dimension-spacing-xl: 20px;
+  --dimension-spacing-2xl: 24px;
+  --dimension-spacing-3xl: 32px;
+  --dimension-spacing-4xl: 40px;
+  --dimension-spacing-5xl: 48px;
+  --dimension-radius-xs: 4px;
+  --dimension-radius-sm: 8px;
+  --dimension-radius-md: 12px;
+  --dimension-radius-lg: 16px;
+  --dimension-radius-full: 999px;
+  --dimension-size-avatar-sm: 32px;
+  --dimension-size-avatar-md: 40px;
+  --dimension-size-avatar-lg: 48px;
+  --dimension-size-avatar-exl: 64px;
+  --dimension-size-icon-sm: 16px;
+  --dimension-size-icon-md: 20px;
+  --dimension-size-icon-lg: 24px;
+  --dimension-size-touch-target: 48px;
+}
